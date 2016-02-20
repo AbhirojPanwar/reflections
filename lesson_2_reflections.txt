@@ -4,7 +4,10 @@ it iniatialies a empty repo
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 all files at aging area, are treated as a sigle ciimit
-
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when I have to make another version of the software, or when I have to make a master branch
+and keep all the experimental changes separate and include only the working changes
+ 
 
 
 woops   added By mistake
