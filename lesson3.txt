@@ -2,3 +2,5 @@ I love Giithub end of the story
 
 When would you want to use a remote repository rather than keeping all your work local
 When I have made a productive change fr th project , where it is better for the project to commit it
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+SO that only genuine commits occur on the projects
